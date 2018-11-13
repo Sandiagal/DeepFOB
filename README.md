@@ -1,5 +1,9 @@
 # DeepFOB
-FOB卡检测软件——算法部分。对于给出的FOB卡片图像进行分级，给出阴、阳、弱阳、异常等结果。
+FOB卡检测软件——算法部分。对于给出的[FOB卡片](http://www.silangsci.com/liujianzhong-Products-20914269/)图像进行分级，给出阴、阳、弱阳、异常等结果。
+
+软件部分[请看这里](https://github.com/MacRylynn/YLBFOBTest)。
+
+# 算法部分
 
 本项目将介绍使用深度CNN来进行`图像分级`的算法分析与实施。按照思考的顺序，整个流程将分为以下步骤：
 
